@@ -2,3 +2,6 @@ SQL Statementts:
 DQL:
 These are SQL commands
 select 
+
+Data Manipulation Language:
+The commands of SQL that are used to insert data into the database, modify the data of the database.
